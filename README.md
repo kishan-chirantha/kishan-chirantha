@@ -30,7 +30,7 @@
 
 <h2 align="center">My Statistics:</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-ch&theme=dark&hide_border=true&" alt="Kishan Chirantha GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-chirantha&theme=dark&hide_border=true&" alt="Kishan Chirantha GitHub Streak" />
 </p>
 
 ---
