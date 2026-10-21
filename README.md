@@ -10,15 +10,11 @@
 
   <br/>
 
-  <a href="mailto:kishanchirantha01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/kishan-chirantha-9b03502a5">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kishan-chirantha">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Building+Web+%26+Mobile+Applications;Java+%7C+Spring+Boot+%7C+React+Native;Learning+and+Growing+as+a+Developer" alt="Developer typing animation" />
+
+<br/><br/>
+  
+<img src="https://komarev.com/ghpvc/?username=kishan-chirantha&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -94,23 +90,26 @@ I'm a software engineering undergraduate passionate about building reliable, mai
 <div align="center">
 
   <a href="https://www.linkedin.com/in/kishan-chirantha-9b03502a5">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:kishanchirantha01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://web.facebook.com/kishan.echirantha.7">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/jukrishan_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
-  <sub>Building. Learning. Engineering.</sub>
+<sub>Building. Learning. Engineering.</sub>
 
-  <br/><br/>
+<br/><br/>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1D4ED8,100:38BDF8" alt="Decorative footer" />
 
