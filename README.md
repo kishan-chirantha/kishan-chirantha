@@ -67,21 +67,25 @@ I'm a software engineering undergraduate passionate about building reliable, mai
 
 ---
 
+
+---
+
 ## GitHub Overview
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kishan-chirantha&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishan-chirantha&theme=github_dark" alt="GitHub Stats" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-chirantha&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishan-chirantha&theme=github_dark" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-chirantha&theme=github&hide_border=true&area=true&height=200&days=30"
+    alt="GitHub Contribution Activity" />
 
 </div>
 
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-chirantha&theme=github_dark&hide_border=true&area=true" alt="GitHub contribution activity" />
-
-</div>
 
 ---
 
