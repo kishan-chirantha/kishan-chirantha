@@ -20,14 +20,18 @@
 
 ---
 
-## About Me
+## About
 
-I'm a software engineering undergraduate passionate about building reliable, maintainable, and user-focused applications.
+I'm a Software Engineering undergraduate focused on building practical, maintainable, and scalable software applications.
 
-- Focused on full-stack development, mobile applications, and enterprise Java.
-- Interested in backend engineering, REST APIs, software architecture, and database design.
-- Enjoy solving technical problems and exploring modern development workflows.
-- Continuously learning and improving through hands-on software development.
+My development experience includes backend engineering, enterprise Java applications, RESTful API development, database management, and native Android application development.
+
+I enjoy understanding how systems work internally, designing efficient application architectures, and solving real-world engineering problems.
+
+- Currently developing full-stack and enterprise applications.
+- Interested in backend engineering and software architecture.
+- Exploring scalable systems and modern application development.
+- Continuously improving through practical software engineering projects.
 
 ---
 
