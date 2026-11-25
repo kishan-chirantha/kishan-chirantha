@@ -71,9 +71,6 @@ I enjoy understanding how systems work internally, designing efficient applicati
 
 ---
 
-
----
-
 ## GitHub Overview
 
 <div align="center">
@@ -84,12 +81,13 @@ I enjoy understanding how systems work internally, designing efficient applicati
 
   <br/><br/>
 
-  <img width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-chirantha&theme=github&hide_border=true&area=true&height=200&days=30"
-    alt="GitHub Contribution Activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+  </picture>
 
 </div>
-
 
 ---
 
