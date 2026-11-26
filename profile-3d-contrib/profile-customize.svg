@@ -12,7 +12,7 @@ stroke: #84cc16;
 fill: #84cc16;
 fill-opacity: 0.5;
 }
-.cont-top-0 { fill: rgb(24, 27, 32); }
+.cont-top-0 { fill: rgb(22, 27, 34); }
 .cont-left-0 { fill: rgb(20, 23, 27); }
 .cont-right-0 { fill: rgb(17, 19, 22); }
 .cont-top-1 { fill: rgb(20, 83, 45); }
