@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */4 * * *"
 
 permissions:
   contents: write
@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    env:
+      TZ: Asia/Colombo
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@main
