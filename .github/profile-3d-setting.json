@@ -6,11 +6,11 @@
   "weakColor": "#1e293b",
   "radarColor": "#38bdf8",
   "growingAnimation": true,
+  "saturation": "75%",
+  "lightness": "55%",
+  "hueStart": 0,
+  "hueEnd": 360,
   "contribColors": [
-    "#161b22",
-    "#0e4429",
-    "#006d32",
-    "#26a641",
-    "#39d353"
+    "#161b22"
   ]
 }
