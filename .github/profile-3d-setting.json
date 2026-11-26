@@ -1,16 +1,16 @@
 {
-  "type": "rainbow",
-  "backgroundColor": "#0d1117",
+  "type": "normal",
+  "backgroundColor": "#090a0f",
   "foregroundColor": "#8b949e",
-  "strongColor": "#7dd3fc",
-  "weakColor": "#1e293b",
-  "radarColor": "#38bdf8",
+  "strongColor": "#a3e635",
+  "weakColor": "#1f2937",
+  "radarColor": "#84cc16",
   "growingAnimation": true,
-  "saturation": "75%",
-  "lightness": "55%",
-  "hueStart": 0,
-  "hueEnd": 360,
   "contribColors": [
-    "#161b22"
+    "#181b20",
+    "#14532d",
+    "#15803d",
+    "#65a30d",
+    "#a3e635"
   ]
 }
