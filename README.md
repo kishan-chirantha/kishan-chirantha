@@ -74,8 +74,10 @@ I enjoy understanding how systems work internally, designing efficient applicati
 ## GitHub Overview
 
 <div align="center">
-
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishan-chirantha&theme=github_dark" alt="GitHub Stats" />
+<br/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishan-chirantha&theme=github_dark" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://streak-stats.demolab.com?user=kishan-chirantha&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=A3E635&fire=A3E635&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A3E635&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
   <br/><br/>
 
