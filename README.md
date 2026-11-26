@@ -77,15 +77,9 @@ I enjoy understanding how systems work internally, designing efficient applicati
 
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishan-chirantha&theme=github_dark" alt="GitHub Stats" />
 
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishan-chirantha&theme=github_dark" alt="Top Languages" />
-
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
-  </picture>
+  <img width="90%" src="./profile-3d-contrib/profile-customize.svg" alt="GitHub 3D Contribution Graph" />
 
 </div>
 
